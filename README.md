@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @laszlodus
-- 👀 I’m looking for a front end developer job
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 👋 Hi, I'm Laszlo Dus
 
-<!---
-laszlodus/laszlodus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an aspiring Front-End Developer based in Rugby, UK.  
+Currently learning React through "The Ultimate React Course 2024" by Jonas Schmedtmann, and building hands-on projects to improve my skills.
+
+---
+
+### 💻 Technologies I use
+- HTML, CSS, JavaScript
+- Bootstrap
+- Git & GitHub
+- UI/UX & Responsive Design
+
+---
+
+### 📚 Ongoing Learning
+- React, Redux, Next.js
+- Building modern web applications with clean UI and good UX
+
+---
+
+### 🔗 My Links
+- 🌐 [Portfolio Website](https://portfolio-laszlodus.netlify.app)
+- 📫 [Email me](mailto:79lgg4@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com)
+
+---
+
+### 📂 Featured Projects
+- [💉 Tattoo Salon Website](https://github.com/laszlodus/tothepointtattoos)
+- [☁️ Weather App](https://github.com/laszlodus/weather-app-public)
+- [🏦 Bank Account](https://github.com/laszlodus/bank_account)
+- [🍝 Forkify App](https://github.com/laszlodus/forkify-project)
+
