@@ -22,7 +22,7 @@ Currently learning React through "The Ultimate React Course 2024" by Jonas Schme
 ### 🔗 My Links
 - 🌐 [Portfolio Website](https://portfolio-laszlodus.netlify.app)
 - 📫 [Email me](mailto:79lgg4@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/laszlo-dus-6b625035b/)
 
 ---
 
