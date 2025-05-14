@@ -3,6 +3,8 @@
 I'm an aspiring Front-End Developer based in Rugby, UK.  
 Currently learning React through "The Ultimate React Course 2024" by Jonas Schmedtmann, and building hands-on projects to improve my skills.
 
+💼 **Actively looking for junior front-end developer roles** (full-time or freelance). 
+
 ---
 
 ### 💻 Technologies I use
