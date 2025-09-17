@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Laszlo Dus
 
 I'm a Junior Front-End Developer based in Rugby, UK.  
-Currently learning React through "The Ultimate React Course 2024" by Jonas Schmedtmann, and building hands-on projects to improve my skills.
+Currently learning React through "The Ultimate React Course 2025" by Jonas Schmedtmann, and building hands-on projects to improve my skills.
 
 💼 **Actively looking for junior front-end developer roles** (full-time or freelance). 
 
