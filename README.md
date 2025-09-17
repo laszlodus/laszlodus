@@ -35,5 +35,5 @@ Currently learning React through "The Ultimate React Course 2024" by Jonas Schme
 - [💉 Tattoo Salon Website](https://github.com/laszlodus/tothepointtattoos)
 - [☁️ Weather App](https://github.com/laszlodus/weather-app-public)
 - [🏦 Bank Account](https://github.com/laszlodus/bank_account)
-- [Movie Search App](https://laszlodus.github.io/movie-search)
+- [🎬 Movie Search App](https://laszlodus.github.io/movie-search)
 
