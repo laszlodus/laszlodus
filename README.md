@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Laszlo Dus
 
-I'm an aspiring Front-End Developer based in Rugby, UK.  
+I'm a Junior Front-End Developer based in Rugby, UK.  
 Currently learning React through "The Ultimate React Course 2024" by Jonas Schmedtmann, and building hands-on projects to improve my skills.
 
 💼 **Actively looking for junior front-end developer roles** (full-time or freelance). 
@@ -8,7 +8,10 @@ Currently learning React through "The Ultimate React Course 2024" by Jonas Schme
 ---
 
 ### 💻 Technologies I use
-- HTML, CSS, JavaScript
+- HTML,
+- CSS,
+- JavaScript,
+- React
 - Bootstrap
 - Git & GitHub
 - UI/UX & Responsive Design
@@ -32,5 +35,5 @@ Currently learning React through "The Ultimate React Course 2024" by Jonas Schme
 - [💉 Tattoo Salon Website](https://github.com/laszlodus/tothepointtattoos)
 - [☁️ Weather App](https://github.com/laszlodus/weather-app-public)
 - [🏦 Bank Account](https://github.com/laszlodus/bank_account)
-- [🍝 Forkify App](https://github.com/laszlodus/forkify-project)
+- [Movie Search App](https://laszlodus.github.io/movie-search)
 
