@@ -32,8 +32,10 @@ Currently learning React through "The Ultimate React Course 2025" by Jonas Schme
 ---
 
 ### 📂 Featured Projects
+- [🎬 Movie Search App](https://laszlodus.github.io/movie-search)
+- [☁️ Weather and Forecast](https://github.com/laszlodus/weather-forecast-react)
 - [💉 Tattoo Salon Website](https://github.com/laszlodus/tothepointtattoos)
 - [☁️ Weather App](https://github.com/laszlodus/weather-app-public)
-- [🏦 Bank Account](https://github.com/laszlodus/bank_account)
-- [🎬 Movie Search App](https://laszlodus.github.io/movie-search)
+  
+
 
